@@ -3,6 +3,7 @@ h2 {
     text-shadow: 2px 2px 4px #000000;
     font-family: Arial;
     font-size: 48px;
+    text-align: center;
 }
 body {
     background-color: #c9cad9;
