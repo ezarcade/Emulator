@@ -4,7 +4,6 @@ h2 {
     font-family: 'Kanit', sans-serif;
     font-size: 48px;
     text-align: center;
-    margin-top: 25px;
 }
 body {
     background-color: #c9cad9;
@@ -18,5 +17,6 @@ body {
     border-radius: 15px;
     margin-left: auto;
     margin-right: auto;
-    text-align: center;  
+    text-align: center;
+    margin-top: 20px;
 }
