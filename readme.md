@@ -1,0 +1,2 @@
+# Emulator
+the website with the sole purpose of emulating old games such as SNES, GBA, NES, and many more<br>for the use of online web emulation using a mix of web emulators. This is the go-to emulation website
