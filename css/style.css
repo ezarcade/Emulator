@@ -12,7 +12,7 @@ body {
 .border {
     background-color: #777;
     z-index: -1;
-    width: 30px;
+    width: 300px;
     height: 75px;
     border-radius: 30px;
     margin-left: auto;
